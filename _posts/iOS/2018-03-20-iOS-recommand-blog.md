@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 一些优秀的iOSblog推荐 持续更新..... 
 description: 本篇主旨把平时到的优秀iOS的blog收集整理下
 categories:
