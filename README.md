@@ -1,3 +1,7 @@
+bundle exec jekyll serve
+jekyll build
+
+
 # jekyll-theme-yat
 [![Github Pages](https://github.com/jeffreytse/jekyll-theme-yat/workflows/Github%20Pages/badge.svg)](https://jeffreytse.github.io/jekyll-theme-yat)
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-yat.svg)](http://badge.fury.io/rb/jekyll-theme-yat)
